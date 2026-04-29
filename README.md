@@ -1,8 +1,8 @@
-# Trust Region Methods vs. Newton's Method: A Comparative Study
+# Algorithmic Robustness for Trust Region Methods and Newton's Method 
 
 ## Overview
 
-This project investigates trust region optimization methods and compares their robustness and convergence behavior against classical Newton's Method. The central question is: when the quadratic model of a function is only reliable within a bounded neighborhood, how does constraining the step size affect convergence, stability, and practical performance?
+This project investigates trust region optimization methods and compares their robustness and convergence behavior against classical Newton's Method. The central question we seek to explore is: when the quadratic model of a function is only reliable within a bounded neighborhood, how does constraining the step size affect convergence, stability, and practical performance?
 
 ---
 
