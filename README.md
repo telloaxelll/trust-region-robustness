@@ -1,4 +1,4 @@
-# Algorithmic Robustness for Trust Region Methods and Newton's Method 
+# Comparative Robustness of Second-Order Optimization Methods Under Non-Convexity & Noise
 
 ## Overview
 
